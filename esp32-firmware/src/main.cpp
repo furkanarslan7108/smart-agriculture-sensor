@@ -3,13 +3,13 @@
 #include <DHT.h>
 
 // WiFi credentials
-#define WIFI_SSID "Zyxel_FB81_5G"
-#define WIFI_PASS "LJ3TRRUTUA"
+#define WIFI_SSID "your-ssid-here"
+#define WIFI_PASS "your-password-here"
 
 // Thinger.io credentials
-#define USERNAME "furkanarslan2003"
+#define USERNAME "thinger-username"
 #define DEVICE_ID "esp32"
-#define DEVICE_CREDENTIAL "xUzgAUA4RgMME46R"
+#define DEVICE_CREDENTIAL "credential"
 
 // Sensor pins
 #define DHT_PIN 4
